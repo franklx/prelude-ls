@@ -1,4 +1,4 @@
-name: 'franklx@prelude-ls'
+name: '@franklx/prelude-ls'
 version: '1.1.2'
 
 author: 'George Zahariev <z@georgezahariev.com>'
