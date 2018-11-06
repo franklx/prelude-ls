@@ -1,4 +1,4 @@
-name: 'prelude-ls'
+name: 'franklx@prelude-ls'
 version: '1.1.2'
 
 author: 'George Zahariev <z@georgezahariev.com>'
@@ -32,7 +32,7 @@ engines:
   node: '>= 0.8.0'
 repository:
   type: 'git'
-  url: 'git://github.com/gkz/prelude-ls.git'
+  url: 'git://github.com/franklx/prelude-ls.git'
 scripts:
   test: "make test"
 
