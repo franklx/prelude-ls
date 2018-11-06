@@ -1,4 +1,4 @@
-name: '@franklx/prelude-ls'
+name: 'prelude-ls-browser'
 version: '1.1.2'
 
 author: 'George Zahariev <z@georgezahariev.com>'
@@ -19,9 +19,9 @@ keywords:
   'object'
   'string'
 
-main: 'lib/'
+main: 'browser/'
 files:
-  'lib/'
+  'browser/'
   'README.md'
   'LICENSE'
 

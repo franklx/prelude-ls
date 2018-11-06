@@ -1,5 +1,5 @@
 {
-  "name": "@franklx/prelude-ls",
+  "name": "prelude-ls-browser",
   "version": "1.1.2",
   "author": "George Zahariev <z@georgezahariev.com>",
   "description": "prelude.ls is a functionally oriented utility library. It is powerful and flexible. Almost all of its functions are curried. It is written in, and is the recommended base library for, LiveScript.",
@@ -17,9 +17,9 @@
     "object",
     "string"
   ],
-  "main": "lib/",
+  "main": "browser/",
   "files": [
-    "lib/",
+    "browser/",
     "README.md",
     "LICENSE"
   ],
